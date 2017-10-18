@@ -1,0 +1,25 @@
+#loginId>div {
+    min-width: 100px;
+    float:left;
+}
+#loginId>div>label{
+    clear: both;
+}
+
+#loginPass {
+    clear: both;
+}
+
+#loginPass>div {
+    min-width: 100px;
+    float: left;
+    
+}
+
+#loginPass>div>label{
+    clear: both;
+}
+
+#signIn {
+    clear: both;
+}
